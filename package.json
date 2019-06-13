@@ -1,0 +1,14 @@
+{
+  "name": "react-stripe-checkout-BE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joshakeman/react-stripe-checkout-BE.git",
+  "author": "Josh Akeman <joshakeman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "stripe": "^7.1.0"
+  }
+}
